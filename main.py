@@ -15,4 +15,3 @@ elif gen > 1995 and gen <= 2015 :
   print("You are part of the Traditionalist generation!")
 else:
   print("You are part of the Alpha generation! Congratulations! you are barely starting to live when the world is starting to die")
-  
